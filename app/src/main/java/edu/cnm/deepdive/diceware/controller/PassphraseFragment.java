@@ -122,7 +122,7 @@ public class PassphraseFragment extends DialogFragment {
   }
 
   /**
-   * Declares a {@link #updatePassphrase(Passphrase)} method that receives the {@link Passphrase}
+   * Declares a {@link #updatePassphrase(Passphrase, boolean, int)} method that receives the {@link Passphrase}
    * instance on completion of editing. The host activity for the {@link PassphraseFragment}
    * instance <strong>must</strong> implement this interface.
    */

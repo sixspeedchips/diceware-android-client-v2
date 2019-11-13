@@ -1,0 +1,9 @@
+-bootclasspath /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/opt/android/sdk/platforms/android-21/android.jar
+-link https://docs.oracle.com/javase/8/docs/api/
+-link https://square.github.io/retrofit/2.x/retrofit/
+-link http://reactivex.io/RxJava/javadoc/
+-linkoffline http://developer.android.com/reference/ /opt/android/sdk/docs/reference
+-windowtitle "Diceware Client"
+
+
+-bootclasspath /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/opt/android/sdk/platforms/android-21/android.jar -link https://docs.oracle.com/javase/8/docs/api/ -link https://square.github.io/retrofit/2.x/retrofit/ -link http://reactivex.io/RxJava/javadoc/ -linkoffline http://developer.android.com/reference/ /opt/android/sdk/docs/reference -windowtitle "Diceware Client"
